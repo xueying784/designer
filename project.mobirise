@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Psychologist x Designer_SinglePlage",
+    "name": "Psychologist x Designer_SinglePage",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -64,7 +64,16 @@
     "versionPublish": "6.1.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "favicon": false,
+    "mbrsiteDomain": "dnbhktrm8j",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
